@@ -1,0 +1,19 @@
+{
+  "name": "Comptoir - Gestion de stock",
+  "short_name": "Comptoir",
+  "description": "Gestion de stock et facturation pour petit commerce",
+  "theme_color": "#2B2420",
+  "background_color": "#F2EBE1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/comptoir-app/",
+  "scope": "/comptoir-app/",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
